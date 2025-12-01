@@ -23,9 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,aspnet,mssql,sql,entityframework,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack"/>
-  <img src="https://img.shields.io/badge/VS%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio 2022"/>
-  <img src="https://img.shields.io/badge/Crystal%20Reports-2C2C54?style=flat-square&logo=oracle&logoColor=white" alt="Crystal Reports"/>
-  <img src="https://img.shields.io/badge/Repository%20Pattern-4FD1C5?style=flat-square" alt="Repository Pattern"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio 2022"/>
 </p>
 
 ---
