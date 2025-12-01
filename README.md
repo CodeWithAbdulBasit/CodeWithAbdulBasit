@@ -24,6 +24,11 @@
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=csharp,aspnet,mssql,sql,entityframework,git,github,vscode&theme=dark" alt="Tech Stack"/></a>
 </p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Repository%20Pattern-Design%20Principle-blue?style=for-the-badge" alt="Repository Pattern"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%202022-IDE-success?style=for-the-badge" alt="Visual Studio 2022"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Crystal%20Report-Reporting%20Tool-orange?style=for-the-badge" alt="Crystal Report"/></a>
+</p>
 
 ---
 
