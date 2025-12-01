@@ -22,9 +22,10 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,aspnet,mssql,sql,entityframework,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio 2022"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,visualstudio,dotnet,mysql,c#" alt="Tech Stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="40" height="40" alt="SQL Server"/>
 </p>
+
 
 ---
 
