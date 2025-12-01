@@ -22,12 +22,10 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=csharp,aspnet,mssql,sql,entityframework,git,github,vscode&theme=dark" alt="Tech Stack"/></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Repository%20Pattern-Design%20Principle-blue?style=for-the-badge" alt="Repository Pattern"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%202022-IDE-success?style=for-the-badge" alt="Visual Studio 2022"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Crystal%20Report-Reporting%20Tool-orange?style=for-the-badge" alt="Crystal Report"/></a>
+  <img src="https://skillicons.dev/icons?i=csharp,aspnet,mssql,sql,entityframework,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/VS%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio 2022"/>
+  <img src="https://img.shields.io/badge/Crystal%20Reports-2C2C54?style=flat-square&logo=oracle&logoColor=white" alt="Crystal Reports"/>
+  <img src="https://img.shields.io/badge/Repository%20Pattern-4FD1C5?style=flat-square" alt="Repository Pattern"/>
 </p>
 
 ---
