@@ -22,8 +22,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,visualstudio,dotnet,mysql,c#" alt="Tech Stack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode,visualstudio,dotnet,mysql,cs,postman&theme=dark" alt="Tech Stack"/>
 </p>
 
 
