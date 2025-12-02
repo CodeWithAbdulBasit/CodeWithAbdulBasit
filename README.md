@@ -70,7 +70,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAbdulBasit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAbdulBasit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=CodeWithAbdulBasit&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
