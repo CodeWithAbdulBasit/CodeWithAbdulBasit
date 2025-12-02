@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode,visualstudio,dotnet,mysql,cs,postman&theme=dark" alt="Tech Stack"/> 
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/sql-server.png" width="46" height="46" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/CodeWithAbdulBasit/CodeWithAbdulBasit/main/assets/SQLServer.png" width="48" height="48" alt="SQL Server"/>
 </p>
 
 
