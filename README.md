@@ -98,6 +98,8 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulbasit03pak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/abdulbasit03pak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230866ff.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_abdulbasit_03" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/CodeWithAbdulBasit" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
